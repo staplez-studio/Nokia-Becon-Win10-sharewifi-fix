@@ -63,6 +63,10 @@ graph LR
 - Internet Connection Sharing already configured once in your adapter properties (`ncpa.cpl`)
 
 ### 2. Installation
+
+OK TO MAKE IT EASY JUST PUT THE TO FILES SOME PLACE YOU WONT REMOVE THEM RIGHT HAND CLICK RUN AS ADMIN ON THE ps1 FILE.
+
+
 1. Create a folder on your `C:` drive named `Scripts` (or clone this repo there):
    ```powershell
    New-Item -ItemType Directory -Force -Path "C:\Scripts"
